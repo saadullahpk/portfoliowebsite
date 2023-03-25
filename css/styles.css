@@ -1,0 +1,139 @@
+body{
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h2{
+  font-size: 2rem;
+  color: #66BFBF;
+  font-weight: normal;
+  line-height: 0;
+  padding-bottom: 30px;
+}
+p{
+    font-weight: normal;
+    line-height: 2;
+    padding: 10px;
+}
+hr{
+    border-style: none;
+    border-top: grey dotted 5px ;
+    width: 5%;
+}
+h1 {
+    line-height: 1.5;
+    margin: 10px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 120px;
+    color: #66BFBF;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 140px;
+  bottom: 250px;
+}
+h4, a{
+  color: #11999E;
+  padding: 10px;
+}
+.top-container h2{
+  font-size: 2.5rem;
+  margin: 10px auto 50px auto;
+  color: #66BFBF;
+  font-weight: normal;
+  line-height: 0;
+}
+
+
+.top-container {
+    background-color: #EAF6F6;
+    padding-top: 100px ;
+    position: relative;
+}
+.middle-container{
+  margin: 100px;
+}
+.intro{
+  width: 40%;
+  margin: auto;
+}
+.skill-row1{
+  width: 65%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.skill-row2{
+  width: 65%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.img-1 {
+  width: 25%;
+  float: left;
+  padding-right: 30px;
+}
+
+.img-2 {
+  width: 25%;
+  float: right;
+  padding-left: 30px;
+}
+.profile{
+  margin: 60px;
+}
+.skills {
+    margin: 60px;
+}
+
+.contact-me {
+margin: 100px auto;
+
+}
+.contact-me p{
+  width: 45%;
+  margin: 30px auto 30px;
+}
+
+.btn {
+  background: #66BFBF;
+  border-radius: 9px;
+  font-family: 'Merriweather', serif;
+  color: #fcfcfc;
+  font-size: 18px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #749ab0;
+  text-decoration: none;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+.bottom-container p{
+  color: #EAF6F6;
+  margin: 0;
+  padding-top: 20px;
+  font-size: 0.75rem;
+}
+a{
+  color: #11999E;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
